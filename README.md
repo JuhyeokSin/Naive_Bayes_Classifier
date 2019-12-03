@@ -14,8 +14,8 @@ This is a hands-on practice to understand about the Naive Bayes Classifier throu
 ![Equation](https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Bayes_41.png)
 
 3. Step3: Use the Naive Bayesian equation to calculate the posterior probability for each class. The class with the highest posterior probability is the outcome of prediction.
-  - Example: 
-      P(Yes|Sunny) = P(Sunny|Yes) * P(Yes) / P(Sunny)
+  - Example: <br/>
+      P(Yes|Sunny) = P(Sunny|Yes) * P(Yes) / P(Sunny)<br/>
       Since P(Sunny|Yes) = 3/9 = 0.33, P(Sunny) = 5/14 = 0.36, and P(Yes) = 0.64,
       P(Yes|Sunny) = 0.33 * 0.64 / 0.36 = 0.60
       

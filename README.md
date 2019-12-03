@@ -13,7 +13,12 @@ This is a hands-on practice to understand about the Naive Bayes Classifier throu
 2. Step2: Create Likelihood table by finding the probabilities, for example, a probability(overcase and playing) = 0.64
 ![Equation](https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Bayes_41.png)
 
-
+3. Step3: Use the Naive Bayesian equation to calculate the posterior probability for each class. The class with the highest posterior probability is the outcome of prediction.
+  - Example: 
+      P(Yes|Sunny) = P(Sunny|Yes) * P(Yes) / P(Sunny)
+      Since P(Sunny|Yes) = 3/9 = 0.33, P(Sunny) = 5/14 = 0.36, and P(Yes) = 0.64,
+      P(Yes|Sunny) = 0.33 * 0.64 / 0.36 = 0.60
+      
 ### Bayes Theorem
 ![Equation](https://www.analyticsvidhya.com/wp-content/uploads/2015/09/Bayes_rule-300x172.png)
 

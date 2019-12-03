@@ -2,6 +2,18 @@
 
 This is a hands-on practice to understand about the Naive Bayes Classifier through a tutorial offered by [Analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/?). It explains about the Naive Bayes Classifier and provides one simple problem and its solution in Python code.
 
+
+### Problem statement:
+#### Players will play if weather is sunny. Is this statement correct?
+
+
+### Solution:
+1. Step1: Convert a data set given in a table form with two columns, weather and play, into a frequency table
+
+2. Step2: Create Likelihood table by finding the probabilities, for example, a probability(overcase and playing) = 0.64
+![Equation](https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Bayes_41.png)
+
+
 ### Bayes Theorem
 ![Equation](https://www.analyticsvidhya.com/wp-content/uploads/2015/09/Bayes_rule-300x172.png)
 

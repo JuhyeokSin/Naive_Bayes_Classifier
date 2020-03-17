@@ -1,6 +1,6 @@
 # Naive_Bayes_Classifier
 
-This is a hands-on practice to understand about the Naive Bayes Classifier through a tutorial offered by [Analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/?). It explains about the Naive Bayes Classifier and provides one problem and its solution in Python code. The problem is one of the most famous problem: Titanic, predicting survival on the Titanic.
+This is a hands-on practice to understand the Naive Bayes Classifier through a tutorial offered by [Analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/?). It explains about the Naive Bayes Classifier and provides one problem and its solution in Python code. The problem is one of the most famous problem: Titanic, predicting survival on the Titanic.
 
 ### Bayes Theorem
 ![Equation](https://www.analyticsvidhya.com/wp-content/uploads/2015/09/Bayes_rule-300x172.png)
